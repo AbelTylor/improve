@@ -1,0 +1,3 @@
+﻿test.obj : error LNK2019: 无法解析的外部符号 ComputerMove，函数 game 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 Dispalyboard，函数 game 中引用了该符号
+D:\代码\Project_3_9\x64\Debug\Project_3_9.exe : fatal error LNK1120: 2 个无法解析的外部命令
